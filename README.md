@@ -22,10 +22,6 @@ To implement and understand both simple and multiple linear regression using the
 6. Plotted Actual vs Predicted
 7. Interpreted feature coefficients
 
-## 📈 Sample Output
-- R² Score: `0.67` (example – use your result)
-- MAE: `276000`
-- MSE: `138920000000`
 
 ## ✅ Learnings
 - Hands-on with Scikit-learn LinearRegression
@@ -33,4 +29,4 @@ To implement and understand both simple and multiple linear regression using the
 - Difference between MAE, MSE, and R²
 
 ## 🔗 Submission Link
-[GitHub Repository Link](YOUR_LINK_HERE)
+[GitHub Repository Link](https://github.com/Lavanya-Lakshmanan06/task-3-linear-regression.git)
